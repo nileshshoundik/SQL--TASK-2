@@ -1,2 +1,6 @@
-# SQL--TASK-2
-SQL Data Analysis Internship – Task 2 
+This project contains SQL queries for:
+- Student-course analysis
+- Average grades
+- Top students
+- failed students
+
